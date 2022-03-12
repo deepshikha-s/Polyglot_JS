@@ -9,7 +9,7 @@
 
 body{
   background-repeat: repeat;
-  color: white;
+  color: yellow;
 
 }
 
@@ -32,7 +32,7 @@ body{
 }
 
 h1 strong {
-  color: white;
+  color: yellow;
   font-style: normal;
 }
 
